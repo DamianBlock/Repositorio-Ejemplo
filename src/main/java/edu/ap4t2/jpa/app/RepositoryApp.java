@@ -168,6 +168,8 @@ public class RepositoryApp {
     repo.remove(p);
 
     System.out.println("Verifica en la base de datos la tabla Comment y la tabla Post");
+
+    System.out.println(p);
   }
 
 }
